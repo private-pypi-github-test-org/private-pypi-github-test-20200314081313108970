@@ -1,0 +1,12 @@
+[[pkgs]]
+type = "github"
+distrib = "2644an2py2wsrlljpjnrgf"
+package = "2644an2py2wsRLLjPJnrgf-1.0-py3-none-any"
+ext = "whl"
+sha256 = "a861f01e1f48705c6941d5081d59cc164cea3425a6c9fa650c4ff419fb752358"
+url = "https://api.github.com/repos/private-pypi-github-test-org/private-pypi-github-test-20200314081313108970/releases/assets/18704473"
+
+[pkgs.meta]
+name = "2644an2py2wsRLLjPJnrgf"
+distrib = "2644an2py2wsrlljpjnrgf"
+sha256 = "a861f01e1f48705c6941d5081d59cc164cea3425a6c9fa650c4ff419fb752358"
